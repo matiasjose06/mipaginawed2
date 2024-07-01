@@ -1,0 +1,40 @@
+h2#tituloprimer{
+    color:rgb(142, 40, 214)
+}
+h2#titulosegundo{
+    color:#c02626
+}
+h2#titulotercero{
+    color:rgb(84, 128, 241)
+}
+h2#titulocuarto{
+    color:rgb(57, 192, 136)
+}
+h2#tituloquinto{
+    color:rgb(246, 139, 39)
+}
+h2#titulosexto{
+    color:rgb(246, 246, 39)
+}
+h2#titulosetimo{
+    color:rgb(89, 243, 13)
+}
+h2#titulooctavo{
+    color:rgb(246, 240, 243)
+}
+
+p#parrafo1{
+    color:rgb(224, 218, 218); 
+    background-color: rgb(246, 39, 156);  
+    margin: 15px; 
+    padding: 10px;
+}
+h3#tituloprimero{
+    color:rgb(255, 255, 255)
+}
+p#parrafo2{
+    color:rgb(0, 0, 0); 
+    background-color: rgb(145, 170, 46);  
+    margin: 08px; 
+    padding: 10px;
+}    
